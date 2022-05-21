@@ -10,8 +10,6 @@ El equipo está conformado por los siguientes desarrolladores:
 | :skull: Echo    | [Jesús Galvis](https://www.github.com/jgalvis414) | Venezuela 🇻🇪 |
 
 
-![Alt Text](https://i.pinimg.com/originals/36/ee/50/36ee50b371a196a9d9af22ec8a8402bf.gif) 
-
 Este proyecto está destinado a la práctica colaborativa de pull requests y métodos para trabajar con arrays en JavaScript. 
 Cada integrante debe crear un repositorio, con el fin de trabajar como un circuito y que todos los integrantes
 trabajen lo practicado en clase.
